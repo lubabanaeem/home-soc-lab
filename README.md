@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Home SOC Lab
 
 A self-built security operations lab for practicing log collection, detection and investigation. All activity is simulated in an isolated lab environment.
@@ -67,3 +68,5 @@ A self-built security operations lab for practicing log collection, detection an
 ## Limitations
 
 This lab currently has no process-level endpoint telemetry or network detection, which limits how far an investigation can be traced. Those gaps are why Sysmon and Suricata are the next two components.
+=======
+
