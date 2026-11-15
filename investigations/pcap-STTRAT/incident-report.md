@@ -1,6 +1,6 @@
 # Incident Summary
 
-In an office network, an employee's PC was compromised by STRRAT malware that performed C2 connections with an external server and sent its system information to the server. The C2 communication started around **02:40:05 UTC** over **TCP port 12132**. The network traffic around the suspicious activity was captured and analyzed using Suricata and Wireshark.
+In an office network, an employee's PC was compromised by STRRAT malware that performed C2 connections with an external server and sent its system information to the server. The C2 communication started around **02:40:05 UTC** over **TCP port 12132**. The network traffic around the suspicious activity was captured and analyzed using Suricata (connected through wazuh offline PCAP) and Wireshark.
 
 # Findings
 
